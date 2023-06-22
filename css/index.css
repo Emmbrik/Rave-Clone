@@ -1,0 +1,76 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+.image-container{
+    width: 15rem;
+    height: 20rem;
+}
+
+.laptop{
+    width: 25rem;
+    height: 20rem;
+}
+
+.image-container img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.devices p{
+    font-size: 5rem;
+}
+
+.image-container video{
+    object-fit: contain;
+}
+
+.macbook video{
+    width: 80%;
+    height: 65%;
+}
+
+.phone video{
+    width: 59%;
+    height: 96%;
+}
+
+.desktop video{
+    top: 39.8%;
+    height: 70%;
+    width: 94%;
+}
+
+.navbar-logo img{
+    width: 10rem;
+}
+
+
+.icons a svg{
+    width: 1.3rem;
+    height: 1.3rem;
+    fill: white;
+}
+
+.icons a{
+    border-radius: 100%;
+    margin: 0.2rem;
+}
+
+.facebook{
+    background-color: #4267b2;
+}
+
+.instagram{
+    background-color: #f2026b;
+}
+
+.twitter{
+    background-color: #1da1f2;
+}
+
+.youtube{
+    background-color: red;
+}
